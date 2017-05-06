@@ -1,12 +1,16 @@
 
-#效果图：\<br>
+#效果图：   
+
+https://github.com/gxh-apologize/QuickIndex/app/src/main/res/img/device-2017-05-06-141858.png
 
 
 
+#使用方法：   
 
-#使用方法：\<br>
-eclipse：可以下载下来添加进你的项目\<br>
-AndroidStudio：\<br>
+eclipse：可以下载下来添加进你的项目
+
+AndroidStudio：
+
 ##Add it in your root build.gradle at the end of repositories：
 	
 	  allprojects {
@@ -22,7 +26,8 @@ AndroidStudio：\<br>
 		compile 'com.github.gxh-apologize:QuickIndex:v1.0'
 	}
   
-#代码中：\<br>
+#代码中：   
+
   ##布局xml：
     
 	    <?xml version="1.0" encoding="utf-8"?>
@@ -57,10 +62,10 @@ AndroidStudio：\<br>
 		    />
 	    </RelativeLayout>
 
-  ##设置中间显示的提示框：\<br>
+  ##设置中间显示的提示框：
     
     	letterBar.setSelectedTextView(tvSelected);
-  ##设置监听\<br>
+  ##设置监听
    
    	letterBar.setOnLetterChangedListener(new LetterBar.OnLetterChangedListener() {
               @Override
