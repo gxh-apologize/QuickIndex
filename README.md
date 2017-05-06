@@ -1,7 +1,7 @@
 
 #效果图：   
 
-![image](https://github.com/2543810401@qq.com/QuickIndex/app/src/main/res/img/device-2017-05-06-141858.png)
+![Image](https://github.com/2543810401@qq.com/QuickIndex/app/src/main/res/img/device-2017-05-06-141858.png)
 
 
 
