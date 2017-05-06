@@ -1,7 +1,7 @@
 
 #效果图：   
 
-https://github.com/gxh-apologize/QuickIndex/app/src/main/res/img/device-2017-05-06-141858.png
+![image](https://github.com/gxh-apologize/QuickIndex/app/src/main/res/img/device-2017-05-06-141858.png)
 
 
 
